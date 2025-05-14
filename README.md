@@ -1,12 +1,5 @@
-# React + Vite
+# E-Commerce React Site by Hayden White
+This is a project made for my bootcamp, Coding Temple. In this project, in a good way, I was forced to study with my own resources and figure out React. The assignment called for a basic ecomm site with products, prices, etc. It also calls for simplicity in my work for now, so this project is simply a landing page with 4 products, working buttons that open an order now form, and a contact form + Header/Footer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### NOTICE
+Node is a part of the project files, but GH would not let me upload many files/folders in Node, so be sure to have Node/NPM. I will reattempt uploading the file. In the meantime, I hope you can get the site working properly. I do not know how the lack of node is going to affect 
